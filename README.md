@@ -53,6 +53,13 @@ The goal is to identify key factors that contribute to employee turnover and pre
     - **Drill-Through Screenshot** : Detailed employee-level attrition data
     - **Tooltip Insights** : Additional insights
 
+\#\# 📈 Dashboard Preview
+The screenshots of the attrition analysis dashboard are included in the repository.
+- \*\*Dashboard Screenshot\*\* : The main visual
+- \*\*Drill-Through Screenshot\*\* : Detailed employee-level attrition data
+- \*\*Tooltip Insights\*\* : Additional insights
+
+
 ## 🚀 Key Learnings
 - Practical application of Power BI visualization and DAX.  
 - Hands-on experience with HR analytics and KPI reporting.  
