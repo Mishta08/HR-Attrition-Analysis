@@ -47,7 +47,7 @@ The goal is to identify key factors that contribute to employee turnover and pre
 
 ## 📈 Dashboard Preview
     The screenshots of the attrition analysis dashboard are included in the repository.
-    ![[HR-Attrition-Analysis](Dashboard Screenshot.png)](https://github.com/Mishta08/HR-Attrition-Analysis) 
+    [![HR-Attrition-Analysis](Dashboard Screenshot.png)](https://github.com/Mishta08/HR-Attrition-Analysis/blob/main/Dashboard%20Screenshot.png)
 
 ## 🚀 Key Learnings
 - Practical application of Power BI visualization and DAX.  
