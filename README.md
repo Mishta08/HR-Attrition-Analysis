@@ -37,7 +37,9 @@ The goal is to identify key factors that contribute to employee turnover and pre
    - Column Charts → Attrition Count by Department and Age Group, and Attrition % by Income Band.  
    - Bar Chart → Employees by Gender and Attrition Status.  
    - Heatmap → Attrition % by Job Satisfaction & Performance.  
-   - Slicers → Department, Job Role, Age, Job Level, Tenure Band.  
+   - Slicers → Department, Job Role, Age, Job Level, Tenure Band.
+   - Drill-through page → Detailed employee-level attrition data on the Drill-through page based on the department (Right-click on a department in the main             dashboard to go to drill-through page).
+   - Tooltip Insights page → Additional insights and metrics for a quick glance on the Tooltip page (Hover over any department to view).
 
 5. **Insights Generated**  
    - Higher attrition in certain departments (R&D and Sales).  
@@ -47,7 +49,9 @@ The goal is to identify key factors that contribute to employee turnover and pre
 
 ## 📈 Dashboard Preview
     The screenshots of the attrition analysis dashboard are included in the repository.
-    [![HR-Attrition-Analysis](Dashboard Screenshot.png)](https://github.com/Mishta08/HR-Attrition-Analysis/blob/main)
+    - **Dashboard Screenshot** : The main visual
+    - **Drill-Through Screenshot** : Detailed employee-level attrition data
+    - **Tooltip Insights** : Additional insights
 
 ## 🚀 Key Learnings
 - Practical application of Power BI visualization and DAX.  
