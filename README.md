@@ -47,17 +47,12 @@ The goal is to identify key factors that contribute to employee turnover and pre
    - Employees with lower income bands had higher attrition.  
    - Overtime and low job satisfaction correlated strongly with attrition.  
 
-## 📈 Dashboard Preview
-    The screenshots of the attrition analysis dashboard are included in the repository.
-    - **Dashboard Screenshot** : The main visual
-    - **Drill-Through Screenshot** : Detailed employee-level attrition data
-    - **Tooltip Insights** : Additional insights
 
-\#\# 📈 Dashboard Preview
+## 📈 Dashboard Preview
 The screenshots of the attrition analysis dashboard are included in the repository.
-- \*\*Dashboard Screenshot\*\* : The main visual
-- \*\*Drill-Through Screenshot\*\* : Detailed employee-level attrition data
-- \*\*Tooltip Insights\*\* : Additional insights
+- **Dashboard Screenshot** : The main visual
+- **Drill-Through Screenshot** : Detailed employee-level attrition data
+- **Tooltip Insights** : Additional insights
 
 
 ## 🚀 Key Learnings
