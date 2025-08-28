@@ -46,7 +46,8 @@ The goal is to identify key factors that contribute to employee turnover and pre
    - Overtime and low job satisfaction correlated strongly with attrition.  
 
 ## 📈 Dashboard Preview
-    https://github.com/Mishta08/HR-Attrition-Analysis/blob/main/Dashboard%20Screenshot.png  
+    The screenshots of the attrition analysis dashboard are included in the repository.
+    ![HR-Attrition-Analysis](Dashboard Screenshot.png)  
 
 ## 🚀 Key Learnings
 - Practical application of Power BI visualization and DAX.  
