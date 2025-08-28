@@ -51,8 +51,8 @@ The goal is to identify key factors that contribute to employee turnover and pre
 ## 📈 Dashboard Preview
 The screenshots of the attrition analysis dashboard are included in the repository.
 - **Dashboard Screenshot** : The main visual
-- **Drill-Through Screenshot** : Detailed employee-level attrition data
-- **Tooltip Insights** : Additional insights
+- **Drill-through Screenshot** : Detailed employee-level attrition data
+- **Tooltip Insights Screenshot** : Additional insights
 
 
 ## 🚀 Key Learnings
