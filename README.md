@@ -1,4 +1,4 @@
-# HR Attrition Analysis using Power BI
+# Employee Attrition Analysis using Power BI
 
 ## 📌 Project Overview
 This project analyzes employee attrition trends using HR data.  
